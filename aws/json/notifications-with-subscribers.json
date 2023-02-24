@@ -1,0 +1,17 @@
+
+[
+    {
+        "Notification": {
+            "ComparisonOperator": "GREATER_THAN",
+            "NotificationType": "ACTUAL",
+            "Threshold": 50,
+            "ThresholdType": "PERCENTAGE"
+        },
+        "Subscribers": [
+            {
+                "Address": "m.bongani@icloud.com",
+                "SubscriptionType": "EMAIL"
+            }
+        ]
+    }
+]
