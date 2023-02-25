@@ -24,7 +24,7 @@
  
  I created two budget alarms, one for zero spend and another for a monthly budget of $10 to manage and keep my AWS spend afoordable as i do not have any credits and cannot afford the costs to increase beyond affordability
  
- ![Image of budget alarm that i created](assets/aws budget alert.png)
+ ![Image of budget alarm that i created](assets/aws-budget-alert.png)
  
  
  
